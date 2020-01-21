@@ -1,3 +1,6 @@
 1.what happen today?
 2.how can't data merge together?
 3.commit 記錄索引的狀態 16:02
+4.pull 取得遠端數據庫的內容
+5.commit record index statutes
+
